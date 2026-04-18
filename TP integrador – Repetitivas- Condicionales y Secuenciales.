@@ -1,5 +1,3 @@
-# UTN-TUPaD--Programacion1
-
 #EJER1
 
 # 1. Pedir nombre del cliente
@@ -456,7 +454,6 @@ if vida_jugador > 0:
 else:
     print("DERROTA. Has caído en combate.")
 print("="*30)
-
 
 
 
